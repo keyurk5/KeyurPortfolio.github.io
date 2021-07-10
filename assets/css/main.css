@@ -4465,6 +4465,13 @@ input, select, textarea {
 			#copyright {
 				margin: 4rem auto;
 			}
+			
+			#footer > section.split
+			{
+				flex-direction: column;
+				-moz-flex-direction: column;
+				-webkit-flex-direction: column;
+			}
 
 		}
 
